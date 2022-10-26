@@ -1,0 +1,26 @@
+*
+*::after
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+main {
+    background-image: url(https://i.postimg.cc/rFJdK5d9/photo-1555505019-8c3f1c4aba5f.jpg);
+}
+
+#contact {
+    align-items: center;
+    text-align: center;
+}
+
+.nav-items2 {
+    margin-left: auto;
+    justify-content: space-between;
+}
+
